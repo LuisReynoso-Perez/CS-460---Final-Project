@@ -1,8 +1,7 @@
-# CS-460---Final-Project
-Adapting An Existing Algorithm (Apriori Algorithm)
+# CS-460---Final Project: Adapting An Existing Algorithm (Apriori Algorithm)
 
 
-Employee Retention Analysis Using Apriori Algorithm
+**Employee Retention Analysis Using Apriori Algorithm**
 This project aims to analyze employee data to uncover patterns and associations that influence employee retention. By utilizing the Apriori algorithm, the project identifies frequent itemsets and generates association rules, providing insights into the key factors that contribute to employee turnover.
 
 Project Overview
